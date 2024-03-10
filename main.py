@@ -5,7 +5,6 @@ from jinja2 import Environment, FileSystemLoader
 template_env = Environment(loader=FileSystemLoader(searchpath="./"))
 
 WHATSAPP_CONTACT = "18098461452"
-URL_PREFIX = "store"
 
 def get_inventory():
     content = []
@@ -21,7 +20,7 @@ def get_inventory():
                 count += 1
                 break
 
-        if count > 0:
+        if count > 0 or item["vendido"] != 'N':
             continue
 
         category = item.pop("categoria")
@@ -37,11 +36,10 @@ with open("public/index.html", "w") as output_file:
     template = template_env.get_template("src/templates/index.html")
     output_file.write(
         template.render(
-            title="X motivo de viaje",
-            shop_title="Articulos en Venta",
+            title="Tienda Personal",
+            shop_title="Articulos Disponibles",
             categories=articles_by_category,
-            whatsapp_contact=WHATSAPP_CONTACT,
-            url_prefix=URL_PREFIX
+            whatsapp_contact=WHATSAPP_CONTACT
         )
     )
 
