@@ -5,6 +5,7 @@ from jinja2 import Environment, FileSystemLoader
 template_env = Environment(loader=FileSystemLoader(searchpath="./"))
 
 WHATSAPP_CONTACT = "18098461452"
+URL_PREFIX = "store"
 
 def get_inventory():
     content = []
@@ -39,7 +40,8 @@ with open("public/index.html", "w") as output_file:
             title="X motivo de viaje",
             shop_title="Articulos en Venta",
             categories=articles_by_category,
-            whatsapp_contact=WHATSAPP_CONTACT
+            whatsapp_contact=WHATSAPP_CONTACT,
+            url_prefix=URL_PREFIX
         )
     )
 
