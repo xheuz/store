@@ -1,7 +1,7 @@
 id,unidades,nombre,descripcion,precio,vendido,categoria
 a8b4e266-e63d-8582-ff67-bbb734712506,1,Escritorio BEKANT,Escritorio BEKANT,"$9,500.00",N,muebles
 d6fac73c-c42e-7b17-a2f9-157334928d20,2,Monitor LG 29WP60G-B,"LG 29WP60G-B UltraWide Monitor 29"" 21:9 FHD (2560 x 1080) IPS Display, sRGB 99% Color Gamut, HDR 10, USB Type-C Connectivity, 3-Side Virtually Borderless Display - Black","$10,600.00",N,electronicos
-044abdb4-31e5-cc72-3d97-48513502f1d3,1,Moinitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",N,electronicos
+044abdb4-31e5-cc72-3d97-48513502f1d3,1,Monitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",N,electronicos
 d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$8,000.00",N,muebles
 1ac7e9d1-692a-eb02-21a2-da246060eac5,1,Dual Monitor Articulating Desk Mount Arm Stand,HEMUDU Dual Monitor Articulating Desk Mount Arm Stand - Vertical Stack Screen Supports Two 13 to 34 Inch Computer Monitors with C Clamp,"$3,000.00",N,accesorios
 5a7b28a2-099b-4897-bb13-58ed5363f8c7,1,Laptop Gaming,Alienware x14 R2,"$94,400.00",N,electronicos
@@ -23,7 +23,7 @@ aabb6875-adc4-26e4-4b2c-fec26d530fb8,1,Air Fryer,COSORI Smart WiFi Air Fryer 5.8
 710b90f4-287e-8286-e6e5-09b38b87c6ec,1,Sous Vide,Anova Culinary Sous Vide Precision Cooker Nano 3.0,"$5,900.00",N,electrodomesticos
 e7c25b39-2732-391f-e3c9-a7cce79ba5e6,1,Vacuum Sealer Machine,FoodSaver Compact Vacuum Sealer Machine,"$5,900.00",N,electrodomesticos
 5d4a10ff-dcd5-99d9-e9c0-a05ab81c0373,1,Lavadora/Secadora de Gas Mabe ,Lavadora/Secadora de Gas Mabe ,"$35,000.00",N,electrodomesticos
-def4f9b6-f032-ad9e-df82-33c30998dba5,1,Banco para hacer press ajustable,Banco para hacer press ajustable,"$3,000.00",N,muebles
+def4f9b6-f032-ad9e-df82-33c30998dba5,1,Banco para hacer press ajustable,Banco para hacer press ajustable,"$3,000.00",N,training
 ea4dad51-a919-e23a-59df-ecb840d25b71,1,Set de Mancuernas ajustables,Set de Mancuernas ajustables,"$23,000.00",N,training
 80decd18-17c0-ec20-771c-c013b97ff665,1,Abanico de techo decorativo,Abanico de techo decorativo,"$3,500.00",N,electrodomesticos
 0448e966-dcdd-be17-b90e-ffd1cb642140,1,Abanico de techo decorativo,Abanico de techo decorativo,"$2,500.00",N,electrodomesticos
@@ -32,16 +32,16 @@ ed596e78-c794-7031-283e-0dceac55d8ea,1,Abanico KDK,Abanico KDK,,,otros
 88cb2530-2556-53c8-5b90-88cfb8cfeeb5,1,Abanico KDK,Abanico KDK,,,otros
 0e53d6e4-526b-4564-a613-4b2a0061fe48,1,Abanico KDK,Abanico KDK,,,otros
 ef3a3d51-5037-b2c0-cd3b-cb9cb44045d7,1,Bebedero Kitchen Pro (botellon oculto),Bebedero Kitchen Pro (botellon oculto),"$10,000.00",Y,electrodomesticos
-f280880c-37ce-d378-7ccb-d603d65deed6,1,"Keychron K2 Wireless Bluetooth/USB Wired Gaming Mechanical Keyboard, Hot-swappable 75% Layout 84 Keys RGB LED Backlight, Aluminum Frame for Mac Windows, Gateron G Pro Brown Switch, Version 2","Keychron K2 Wireless Bluetooth/USB Wired Gaming Mechanical Keyboard, Hot-swappable 75% Layout 84 Keys RGB LED Backlight, Aluminum Frame for Mac Windows, Gateron G Pro Brown Switch, Version 2","$5,900.00",N,electronicos
+f280880c-37ce-d378-7ccb-d603d65deed6,1,Gaming Mechanical Keyboard,"Keychron K2 Wireless Bluetooth/USB Wired Gaming Mechanical Keyboard, Hot-swappable 75% Layout 84 Keys RGB LED Backlight, Aluminum Frame for Mac Windows, Gateron G Pro Brown Switch, Version 2","$5,900.00",N,electronicos
 d3d0e4d0-d1e3-1134-b2a2-69176918cf87,1,Combinacion de almacenaje blanco Ikea ,Combinacion de almacenaje blanco Ikea ,"$10,000.00",N,muebles
 9c3f9af2-5c19-277a-d6a9-a8c7685f67e2,1,Arbol de Navidad con luces y adornos,Arbol de Navidad con luces y adornos,"$5,000.00",N,accesorios
 a021bf61-c8dd-75f1-c6d1-f34e15bb86ae,1,Impresora Deskjet Ink Advantage HP 2775,Impresora Deskjet Ink Advantage HP 2775,"$2,500.00",N,electronicos
 d68b66d6-3611-0719-75a2-f0057829d3c9,1,"Lodge Cast Iron Parrilla cuadrada 10.5""","Lodge Cast Iron Parrilla cuadrada 10.5""","$3,500.00",N,otros
 e9269ccc-e64e-bfd5-909d-bff658615d68,1,"Lodge Cast Iron Sarten 12""","Lodge Cast Iron Sarten 12""","$3,500.00",N,otros
 15ada1ba-9307-178c-2fd8-e61640ec782a,1,Espejo decorativo biselado,Espejo decorativo biselado,"$1,500.00",N,otros
-,,,,,N,
-,,,,,N,
-,,,,,N,
+,1,"Gavetero, vertical, 4 gavetas, blanco (Ikea)",,"$6,000.00",N,
+,1,Escritorio blanco Ikea,,"$5,000.00",N,
+,1,"Ninja Cold Press Juicer, Easy Clean",,"$6,500.00",N,
 ,,,,,N,
 ,,,,,N,
 ,,,,,N,

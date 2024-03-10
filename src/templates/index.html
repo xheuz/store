@@ -15,7 +15,13 @@
         {% for category in categories %}
         <div class="py-4">
           <h2 class="text-2xl font-bold tracking-tight text-gray-700 px-4 sm:px-0">
-            {{category.upper()}}
+            {{category.upper()}} <span class="text-xl text-gray-500 font-normal">
+              {% if categories[category]|length == 1 %}
+              ({{categories[category]|length}} articulo)
+              {% else %}
+              ({{categories[category]|length}} articulos)
+              {% endif %}
+            </span>
           </h2>
 
           <div
