@@ -6,6 +6,3 @@ build:
 
 runserver:
 	python -m http.server --directory public
-
-publish:
-	
