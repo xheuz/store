@@ -7,7 +7,10 @@ build:
 runserver:
 	python -m http.server --directory public
 
-publish: build
+pull_data:
+	wget --output-file="/tmp/logs.csv" "https://docs.google.com/spreadsheets/d/1cZtA1ZPrW9TqoxS4RGxTRzTJnAG0kLzOHmIyGdBzxWA/export?format=csv&gid=2043408291" -O "./src/data/inventory.csv"
+
+publish: pull_data build
 	git add .
 	git commit -m "updated inventory"
 	git push origin main
