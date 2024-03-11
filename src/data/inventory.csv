@@ -19,7 +19,7 @@ b80b2e7b-e8ae-da0f-11cc-74b69fce53d3,1,Sofa gris para 3 personas,Sofa gris para 
 140c5a5b-fb06-82c7-ceda-2156f2a9afd5,1,Camarote twin,Camarote twin blanco con gris,"$10,000.00",Y,muebles
 c0196faa-bc34-6405-5e68-f4c0daa96f64,1,Carro Hyundai Avante 2014,Hyundai Avante 2014 GLP Blanco,"$580,000.00",N,vehiculos
 45ba1991-2cdf-9106-5491-eed5bb161a23,1,Estufa Samsung,Estufa Samsung,"$40,000.00",Y,electrodomesticos
-aabb6875-adc4-26e4-4b2c-fec26d530fb8,1,Air Fryer,COSORI Smart WiFi Air Fryer 5.8QT,"$5,900.00",N,electrodomesticos
+aabb6875-adc4-26e4-4b2c-fec26d530fb8,1,Air Fryer,COSORI Smart WiFi Air Fryer 5.8QT,"$5,900.00",Y,electrodomesticos
 710b90f4-287e-8286-e6e5-09b38b87c6ec,1,Sous Vide,Anova Culinary Sous Vide Precision Cooker Nano 3.0,"$5,900.00",N,electrodomesticos
 e7c25b39-2732-391f-e3c9-a7cce79ba5e6,1,Vacuum Sealer Machine,FoodSaver Compact Vacuum Sealer Machine,"$5,900.00",N,electrodomesticos
 5d4a10ff-dcd5-99d9-e9c0-a05ab81c0373,1,Lavadora/Secadora de Gas Mabe ,Lavadora/Secadora de Gas Mabe ,"$35,000.00",N,electrodomesticos
@@ -41,8 +41,8 @@ e9269ccc-e64e-bfd5-909d-bff658615d68,1,"Lodge Cast Iron Sarten 12""","Lodge Cast
 15ada1ba-9307-178c-2fd8-e61640ec782a,1,Espejo decorativo biselado,Espejo decorativo biselado,"$1,500.00",N,otros
 d8ef3aba-763b-785d-f019-c95a32fd603c,1,"Gavetero, vertical, 4 gavetas, blanco (Ikea)","Gavetero, vertical, 4 gavetas, blanco (Ikea)","$4,000.00",N,muebles
 030a4083-0cdd-fb3e-a22f-ec599bf39df4,1,Escritorio blanco Ikea,Escritorio blanco Ikea,"$5,000.00",N,muebles
-4926db37-dba1-c596-3085-aa2126d9bd91,1,"Ninja Cold Press Juicer, Easy Clean","Ninja Cold Press Juicer, Easy Clean","$6,500.00",N,electrodomesticos
-,,,,,N,
+4926db37-dba1-c596-3085-aa2126d9bd91,1,"Ninja Cold Press Juicer, Easy Clean","Ninja Cold Press Juicer, Easy Clean","$6,500.00",Y,electrodomesticos
+23c65567-0fe1-91d7-b4cc-e91aa4bd3e32,1,Taladro Kawasaki,Taladro Kawasaki,,N,
 ,,,,,N,
 ,,,,,N,
 ,,,,,N,
