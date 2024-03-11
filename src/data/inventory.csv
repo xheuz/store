@@ -2,7 +2,7 @@ id,unidades,nombre,descripcion,precio,vendido,categoria
 a8b4e266-e63d-8582-ff67-bbb734712506,1,Escritorio BEKANT,Escritorio BEKANT,"$9,500.00",N,muebles
 d6fac73c-c42e-7b17-a2f9-157334928d20,2,Monitor LG 29WP60G-B,"LG 29WP60G-B UltraWide Monitor 29"" 21:9 FHD (2560 x 1080) IPS Display, sRGB 99% Color Gamut, HDR 10, USB Type-C Connectivity, 3-Side Virtually Borderless Display - Black","$10,600.00",N,electronicos
 044abdb4-31e5-cc72-3d97-48513502f1d3,1,Monitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",N,electronicos
-d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$7,500.00",N,muebles
+d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$5,000.00",N,muebles
 1ac7e9d1-692a-eb02-21a2-da246060eac5,1,Brazo para montar 2 monitores,HEMUDU Dual Monitor Articulating Desk Mount Arm Stand - Vertical Stack Screen Supports Two 13 to 34 Inch Computer Monitors with C Clamp,"$3,000.00",N,accesorios
 5a7b28a2-099b-4897-bb13-58ed5363f8c7,1,Laptop Gaming,Alienware x14 R2,"$94,400.00",N,electronicos
 653a2c3c-b3ab-706f-c283-2565cd9335f5,1,Xbox Wireless Controller,Microsoft Xbox Wireless Controller Stellar Shift - Wireless & Bluetooth Connectivity - New Hybrid D-Pad - New Share Button - Featuring Textured Grip - Easily Pair & Switch Between Devices,"$3,500.00",N,electronicos
@@ -26,7 +26,7 @@ e7c25b39-2732-391f-e3c9-a7cce79ba5e6,1,Vacuum Sealer Machine,FoodSaver Compact V
 def4f9b6-f032-ad9e-df82-33c30998dba5,1,Banco para hacer press ajustable,Banco para hacer press ajustable,"$3,000.00",N,training
 ea4dad51-a919-e23a-59df-ecb840d25b71,1,Set de Mancuernas ajustables,Set de Mancuernas ajustables,"$23,000.00",N,training
 80decd18-17c0-ec20-771c-c013b97ff665,1,Abanico de techo decorativo,Abanico de techo decorativo,"$3,500.00",N,electrodomesticos
-0448e966-dcdd-be17-b90e-ffd1cb642140,1,Abanico de techo decorativo,Abanico de techo decorativo,"$2,500.00",N,electrodomesticos
+0448e966-dcdd-be17-b90e-ffd1cb642140,1,Abanico de techo decorativo,Abanico de techo decorativo,"$1,500.00",N,electrodomesticos
 7e83a795-33a6-9c3c-3702-aa26c6475a7b,2,Lampara para mesa de noche,Lampara para mesa de noche,"$1,200.00",N,accesorios
 ed596e78-c794-7031-283e-0dceac55d8ea,1,Abanico KDK,Abanico KDK,,,otros
 88cb2530-2556-53c8-5b90-88cfb8cfeeb5,1,Abanico KDK,Abanico KDK,,,otros

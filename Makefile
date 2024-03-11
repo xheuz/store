@@ -6,3 +6,8 @@ build:
 
 runserver:
 	python -m http.server --directory public
+
+publish: build
+	git add .
+	git commit -m "updated inventory"
+	git push origin main
