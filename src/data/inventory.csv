@@ -1,8 +1,8 @@
 id,unidades,nombre,descripcion,precio,vendido,categoria
 a8b4e266-e63d-8582-ff67-bbb734712506,1,Escritorio BEKANT,Escritorio BEKANT,"$9,500.00",N,muebles
 d6fac73c-c42e-7b17-a2f9-157334928d20,2,Monitor LG 29WP60G-B,"LG 29WP60G-B UltraWide Monitor 29"" 21:9 FHD (2560 x 1080) IPS Display, sRGB 99% Color Gamut, HDR 10, USB Type-C Connectivity, 3-Side Virtually Borderless Display - Black","$10,600.00",N,electronicos
-044abdb4-31e5-cc72-3d97-48513502f1d3,1,Monitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",N,electronicos
-d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$5,000.00",N,muebles
+044abdb4-31e5-cc72-3d97-48513502f1d3,1,Monitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",Y,electronicos
+d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$5,000.00",Y,muebles
 1ac7e9d1-692a-eb02-21a2-da246060eac5,1,Brazo para montar 2 monitores,HEMUDU Dual Monitor Articulating Desk Mount Arm Stand - Vertical Stack Screen Supports Two 13 to 34 Inch Computer Monitors with C Clamp,"$3,000.00",N,accesorios
 5a7b28a2-099b-4897-bb13-58ed5363f8c7,1,Laptop Gaming,Alienware x14 R2,"$94,400.00",N,electronicos
 653a2c3c-b3ab-706f-c283-2565cd9335f5,1,Xbox Wireless Controller,Microsoft Xbox Wireless Controller Stellar Shift - Wireless & Bluetooth Connectivity - New Hybrid D-Pad - New Share Button - Featuring Textured Grip - Easily Pair & Switch Between Devices,"$3,500.00",N,electronicos
