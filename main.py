@@ -1,12 +1,11 @@
 import csv
-from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader
 
 template_env = Environment(loader=FileSystemLoader(searchpath="./"))
 
 WHATSAPP_CONTACT = "18098461452"
-DUE_DAY = datetime(2024, 4, 17).strftime("%d %B")
+
 
 def get_inventory():
     content = []
@@ -22,7 +21,7 @@ def get_inventory():
                 count += 1
                 break
 
-        if count > 0 or item["vendido"] != 'N':
+        if count > 0 or item["vendido"] != "N":
             continue
 
         category = item.pop("categoria")
@@ -30,6 +29,7 @@ def get_inventory():
             ordered_by_category[category] = []
         ordered_by_category[category].append(item)
     return ordered_by_category
+
 
 articles_by_category = get_inventory()
 
@@ -39,9 +39,9 @@ with open("public/index.html", "w") as output_file:
     output_file.write(
         template.render(
             title="Tienda Personal",
-            shop_title=f"Articulos Disponibles - hasta {DUE_DAY}",
+            shop_title=f"Articulos Disponibles",
             categories=articles_by_category,
-            whatsapp_contact=WHATSAPP_CONTACT
+            whatsapp_contact=WHATSAPP_CONTACT,
         )
     )
 
@@ -59,4 +59,3 @@ with open("public/index.html", "w") as output_file:
 #                     whatsapp_contact=WHATSAPP_CONTACT
 #                 )
 #             )
-
