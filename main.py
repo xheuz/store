@@ -1,10 +1,12 @@
 import csv
+from datetime import datetime
 
 from jinja2 import Environment, FileSystemLoader
 
 template_env = Environment(loader=FileSystemLoader(searchpath="./"))
 
 WHATSAPP_CONTACT = "18098461452"
+DUE_DAY = datetime(2024, 5, 17).isoformat().split("T")[0]
 
 def get_inventory():
     content = []
@@ -37,7 +39,7 @@ with open("public/index.html", "w") as output_file:
     output_file.write(
         template.render(
             title="Tienda Personal",
-            shop_title="Articulos Disponibles",
+            shop_title=f"Articulos Disponibles - hasta {DUE_DAY}",
             categories=articles_by_category,
             whatsapp_contact=WHATSAPP_CONTACT
         )
