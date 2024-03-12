@@ -6,7 +6,7 @@ from jinja2 import Environment, FileSystemLoader
 template_env = Environment(loader=FileSystemLoader(searchpath="./"))
 
 WHATSAPP_CONTACT = "18098461452"
-DUE_DAY = datetime(2024, 5, 17).isoformat().split("T")[0]
+DUE_DAY = datetime(2024, 4, 17).strftime("%d %B")
 
 def get_inventory():
     content = []
