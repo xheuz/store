@@ -1,6 +1,6 @@
 id,unidades,nombre,descripcion,precio,vendido,categoria,
 a8b4e266-e63d-8582-ff67-bbb734712506,1,Escritorio BEKANT,Escritorio BEKANT,"$9,500.00",N,muebles,0
-d6fac73c-c42e-7b17-a2f9-157334928d20,2,Monitor LG 29WP60G-B,"LG 29WP60G-B UltraWide Monitor 29"" 21:9 FHD (2560 x 1080) IPS Display, sRGB 99% Color Gamut, HDR 10, USB Type-C Connectivity, 3-Side Virtually Borderless Display - Black","$10,600.00",N,electronicos,0
+d6fac73c-c42e-7b17-a2f9-157334928d20,1,2 x Monitor LG 29WP60G-B,"LG 29WP60G-B UltraWide Monitor 29"" 21:9 FHD (2560 x 1080) IPS Display, sRGB 99% Color Gamut, HDR 10, USB Type-C Connectivity, 3-Side Virtually Borderless Display - Black","$20,700.00",N,electronicos,0
 044abdb4-31e5-cc72-3d97-48513502f1d3,1,Monitor LG 34UC98-W,LG 34UC98-W 34-Inch 21:9 Curved UltraWide QHD IPS Monitor with Thunderbolt,"$28,320.00",Y,electronicos,"$28,320.00"
 d2c4f729-e2d2-4db3-5b93-86ff250c9e18,1,Silla MARKUS,Silla MARKUS,"$4,720.00",Y,muebles,"$4,720.00"
 1ac7e9d1-692a-eb02-21a2-da246060eac5,1,Brazo para montar 2 monitores,HEMUDU Dual Monitor Articulating Desk Mount Arm Stand - Vertical Stack Screen Supports Two 13 to 34 Inch Computer Monitors with C Clamp,"$2,950.00",Y,accesorios,"$2,950.00"
@@ -15,7 +15,7 @@ cefb39c2-d0d1-a22e-d126-6ca8ccf7d387,1,A/C 18000 BTU Airmax inverter,Aire Acondi
 256e11bb-e6c8-9355-9ddd-f28c1a1448b4,1,"Juego de muebles de exterior en rattan (mueble para 1 personas x 2, mueble para 2 personas, mesa)","Juego de muebles de exterior en rattan (mueble para 1 personas x 2, mueble para 2 personas, mesa)","$20,000.00",N,muebles,0
 fa259d7e-d3b2-08b3-d0a1-0e3813372760,1,Comedor de madera con 6 sillas,Comedor de madera con 6 sillas,"$40,000.00",N,muebles,0
 b80b2e7b-e8ae-da0f-11cc-74b69fce53d3,1,Sofa gris hasta para 3 personas,Sofa gris hasta para 3 personas,"$5,500.00",N,muebles,0
-0789340a-f808-c2cc-1220-f774e42eb314,1,Sofa gris en L hasta para 5 personas,Sofa gris en L hasta para 5 personas,"$30,000.00",N,muebles,0
+0789340a-f808-c2cc-1220-f774e42eb314,1,Sofa gris en L hasta para 5 personas,Sofa gris en L hasta para 5 personas,"$25,000.00",N,muebles,0
 140c5a5b-fb06-82c7-ceda-2156f2a9afd5,1,Camarote twin,Camarote twin blanco con gris,"$10,000.00",Y,muebles,"$10,000.00"
 c0196faa-bc34-6405-5e68-f4c0daa96f64,1,Carro Hyundai Avante 2014,Hyundai Avante 2014 GLP Blanco,"$580,000.00",N,vehiculos,0
 45ba1991-2cdf-9106-5491-eed5bb161a23,1,Estufa Samsung,Estufa Samsung,"$40,000.00",Y,electrodomesticos,"$40,000.00"
@@ -27,7 +27,7 @@ def4f9b6-f032-ad9e-df82-33c30998dba5,1,Banco para hacer press ajustable,Banco pa
 ea4dad51-a919-e23a-59df-ecb840d25b71,1,Set de Mancuernas ajustables,Set de Mancuernas ajustables,"$23,000.00",N,training,0
 80decd18-17c0-ec20-771c-c013b97ff665,1,Abanico de techo decorativo,Abanico de techo decorativo,"$3,500.00",N,electrodomesticos,0
 0448e966-dcdd-be17-b90e-ffd1cb642140,1,Abanico de techo decorativo,Abanico de techo decorativo,,N,electrodomesticos,0
-7e83a795-33a6-9c3c-3702-aa26c6475a7b,1,2 lamparas para mesa de noche,2 lamparas para mesa de noche,"$1,600.00",N,accesorios,0
+7e83a795-33a6-9c3c-3702-aa26c6475a7b,1,2 x lamparas para mesa de noche,2 lamparas para mesa de noche,"$1,600.00",N,accesorios,0
 ed596e78-c794-7031-283e-0dceac55d8ea,1,Abanico KDK,Abanico KDK,,,otros,0
 88cb2530-2556-53c8-5b90-88cfb8cfeeb5,1,Abanico KDK,Abanico KDK,,,otros,0
 0e53d6e4-526b-4564-a613-4b2a0061fe48,1,Abanico KDK,Abanico KDK,,,otros,0
